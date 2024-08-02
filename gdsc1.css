@@ -1,0 +1,500 @@
+
+
+.hero{
+    width:100%;
+    position: relative;
+    overflow: hidden;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.image{
+    width: 100%;
+}
+.vectorbg1{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.vectorbg2{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+.vector2{
+    position: absolute;
+    bottom: 70px;
+    right: 150px;
+}
+.vector4{
+    position: absolute;
+    left: 30px;
+    top: 100px;
+}
+
+.saturn{
+    position: absolute;
+    left: 0px;
+    top: 340px;
+}
+.mercury{
+    position: absolute;
+    left: 0px;
+    top: 70px;
+}
+.uranus{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+.jupiter{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+.mars{
+    position: absolute;
+    right: 0px;
+    top: 100px;
+}
+.earth{
+    position: absolute;
+    top: 170px;
+    left: 750px;
+}
+.neptune{
+    position: absolute;
+    bottom: 0px;
+    left: 650px;
+}
+.venus{
+    position: absolute;
+    top: 490px;
+    left: 300px;
+}
+.vector1{
+    position: absolute;
+    top: 450px;
+    left:650px
+}
+.vector3{
+    position: absolute;
+    top: 0px;
+    right: 60px;
+}
+.text{
+    width: 60%;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 200px;
+    left: 260px;
+    text-align: center;
+}
+h1{
+    font-size: 100px;
+    width: 100%;
+}
+p{
+    width: 100%;
+    font: 50px;
+}
+.button{
+    position: absolute;
+    top: 800px;
+    left: 600px;
+}
+.btnbg{
+    width: 100%;
+    height: 100%;
+}
+.btn{
+    width: 250px;
+    height: 90px;
+    position: relative;
+}
+.btntext{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: white;
+    position: absolute;
+    top: 0px;
+    left: 20px;
+}
+
+.navbar{
+    width: 100%;
+    position: absolute;
+    top: 25px;
+    left: 20px;
+    display: flex;
+    gap: 300px;
+    color: white;
+    align-content: center;
+    /* margin: 0px 20px; */
+    justify-content: center;
+}
+
+.frame11{
+    display: flex;
+    align-content: center;
+}
+.name{
+    display: flex;
+    gap: 40px;
+}
+.ellipse1{
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    object-fit: cover;
+}
+.sun{
+    width: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.suntext{
+    width: 70%;
+    position: absolute;
+    text-align: left;
+    left: 120px;
+    bottom: 300px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.suntext h2{
+    font-size: 75px;
+    margin-bottom: 0px;
+}
+.suntext p{
+    font-size: 20px;
+}
+.sunframe5{
+    display: flex;
+    width: 70%;
+    position: absolute;
+    left: 120px;
+    bottom: 150px;
+    justify-content: space-between;
+}
+.box1{
+    position: relative;
+    display: flex;
+    width: 400px;
+    height: 140px;
+    border-radius: 12px;
+    color: white;
+}
+
+.box1image{
+    width: 100%;
+}
+.boxtext{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    gap: 90px;
+    align-items: center;
+    padding: 10px;
+}
+.diameter{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.diameter p{
+    font-size: 19px;
+}
+.flex{
+    display: flex;
+    gap: 30px;
+}
+.ellipse{
+    position: absolute;
+    top: 40px;
+    left: 0px;
+}
+.right{
+    width: 50%;
+    position: absolute;
+    top: 20px;
+    right: 100px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.right p{
+    font-size: 20px;
+    font-weight: 100;
+    margin-bottom: 15px;
+}
+.right h1{
+    margin-bottom: 15px;
+}
+.textbox{
+    display: flex;
+    gap: 120px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+.box2{
+    position: relative;
+    width: 250px;
+    height: 100px;
+}
+.cardtext{
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.venus2{
+    position: absolute;
+    right: 0px;
+    top: 40px;
+}
+.left{
+    width: 40%;
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.earthbg{
+    position: absolute;
+    bottom: 0px;
+    left: 60px;
+}
+.earth2{
+    position: absolute;
+    bottom: 0px;
+    left: 120px;
+}
+.rocket{
+    position: absolute;
+    left: 0px;
+    bottom: 300px;
+}
+.boxe{
+    position: absolute;
+    right: 200px;
+    top: 60px;
+    width: 250px;
+    height: 100px;
+}
+.texte{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 0;
+    left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    gap: 50px;
+}
+diame p{
+   padding: 0px;
+   margin-bottom: 0px;
+   
+}
+.earthtext{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 10px;
+    left: 90px;
+    color: white;
+    width: 50%;
+    text-align: left;
+}
+.moontext{
+    position: absolute;
+    right: 500px;
+    top: 300px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    width: 50%;
+}
+.arrowe{
+    position: absolute;
+    top: 310px;
+    right: 300px;
+}
+.mars2{
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+.textm{
+    width: 50%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 60px;
+    left: 90px;
+}
+.textmm{
+    width: 25%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 400px;
+    left: 590px;
+}
+.arrowm{
+    position: absolute;
+    top: 380px;
+    left: 480px;
+}
+.textboxm{
+    position: absolute;
+    top: 75px;
+    right: 220px;
+}
+.box3{
+    position: relative;
+    width: 250px;
+    height: 100px;
+    margin-bottom: 150px;
+}
+.textbox3{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    top: 10px;
+    left: 18px;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+}
+.jupiterbg1{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+.jupiterbg2{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.lefttextj{
+    position: absolute;
+    top: 10px;
+    left: 100px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 50%;
+}
+.box4{
+    position: relative;
+    width: 250px;
+    height: 100px;
+    margin-bottom: 150px;
+}
+.textj{
+    position: absolute;
+    top: 10px;
+    left: 18px;
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+}
+.neptunebg{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+.textn{
+    position: absolute;
+    top: 20px;
+    left: 270px;
+    width: 70%;
+    text-align: center;
+}
+.textboxn{
+    display: flex;
+    gap: 180px;
+    /* justify-content: space-between; */
+}
+.box5{
+    position: relative;
+    width: 250px;
+    height: 100px;
+}
+.diamn{
+    position: absolute;
+    top: 10px;
+    left: 18px;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.fneptune{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+img{
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+.footer{
+    background-color: rgb(34, 34, 34);
+    width: 90%;
+    height: 400px;
+    position: absolute;
+    top: 130px;
+    left: 60px;
+    border-radius: 20px;
+}
+.textf{
+    width: 75%;
+    position: absolute;
+    top: 10px;
+    text-align: center;
+    left: 150px;
+}
+.navbar2{
+    width: 100%;
+    position: absolute;
+    bottom: 25px;
+    left: 20px;
+    display: flex;
+    gap: 300px;
+    color: white;
+    align-content: center;
+    justify-content: center;
+}
+.btnb{
+    background-color: white;
+    position: absolute;
+    top: 220px;
+    left: 350px;
+    border-radius: 20px;
+    width: 40%;
+}
+.buttonb{
+    width: 100%;
+    position: relative;
+}
+/* .textb{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    color: lightslategray;
+} */
